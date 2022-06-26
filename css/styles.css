@@ -35,7 +35,7 @@ body {
    height: 250px;
    width: auto;
    border-radius: 15px;
-   background-image: url(/images/image-equilibrium.jpg);
+   background-image: url(../images/image-equilibrium.jpg);
    object-fit: cover;
    background-size: cover;
 }
@@ -46,8 +46,6 @@ h1 {
    color: var(--White);
    font-size: 25px;
 }
-
-p {}
 
 .container__data {
    display: flex;
